@@ -6,7 +6,7 @@ Paper presentation notes. More reads and write-ups on blog / LinkedIn when time 
 
 
 **Paper:** *Conformal Prediction for Uncertainty-Aware Planning with Diffusion Dynamics Model*
-Jiankai Sun et al. | Presented by Chia Chien, Liu · Apr 2025
+Jiankai Sun et al.
 
 
 ---
@@ -14,8 +14,8 @@ Jiankai Sun et al. | Presented by Chia Chien, Liu · Apr 2025
 ## What This Paper Does
 
 PlanCP = diffusion planner + CP as training loss & calibration.
-
 differentiable quantile → enable backprop
+
 ---
 
 ## My Insights
